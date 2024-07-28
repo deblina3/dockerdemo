@@ -1,5 +1,5 @@
 pipeline {
- agent }
+ agent 
 
  stages {
  stage('Checkout GitHub repo') {
